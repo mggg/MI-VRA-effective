@@ -1,0 +1,19 @@
+,HD Invalidated Map VTD,SD Invalidated Map VTD,CD Enacted Map VTD,HD Full Run,SD Full Run,CD Full Run,HD 1 Scramble Run,HD 2 Scramble Run,SD 1 Scramble Run
+# Districts Scrambled,0,0,0,110,38,13,13,15,8
+# Districts Fixed,110,38,13,0,0,0,97,95,30
+"Max # of VRA (0.4, 0.48) While OEG Serial Beats State",0,0,0,0,4,2,14,13,4
+"Max # of VRA (0.4, 0.48) While |OEG Serial| < .04",13,4,2,10,4,2,14,13,5
+"Max # of VRA (0.4, 0.48) While SEG Serial Beats State",0,0,0,0,4,2,14,13,4
+"Max # of VRA (0.4, 0.48) While |SEG Serial| < .04",13,4,2,13,4,2,14,13,5
+"Max # of VRA (0.4, 0.48) While OEG Index 0 Beats State",0,0,0,0,4,2,13,13,4
+"Max # of VRA (0.4, 0.48) While |OEG Index 0| < .04",13,4,0,12,4,2,14,13,5
+"Max # of VRA (0.4, 0.48) While SEG Index 0 Beats State",0,0,0,12,4,2,0,0,5
+"Max # of VRA (0.4, 0.48) While |SEG Index 0| < .04",13,4,0,13,4,2,14,13,5
+"Max # of VRA (0.4, 0.48) While OEG Index 1 Beats State",0,0,0,11,4,2,14,13,5
+"Max # of VRA (0.4, 0.48) While |OEG Index 1| < .04",13,4,0,12,4,2,14,13,5
+"Max # of VRA (0.4, 0.48) While SEG Index 1 Beats State",0,0,0,13,4,2,14,13,5
+"Max # of VRA (0.4, 0.48) While |SEG Index 1| < .04",13,4,0,13,4,2,14,13,5
+"Max # of VRA (0.4, 0.48) While OEG Index 3 Beats State",0,0,0,11,4,2,13,13,4
+"Max # of VRA (0.4, 0.48) While |OEG Index 3| < .04",13,4,0,13,4,2,14,13,5
+"Max # of VRA (0.4, 0.48) While SEG Index 3 Beats State",0,0,0,13,4,2,0,0,5
+"Max # of VRA (0.4, 0.48) While |SEG Index 3| < .04",13,4,0,13,4,2,14,13,5

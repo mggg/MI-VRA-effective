@@ -1,0 +1,7 @@
+,HD Invalidated Map VTD,SD Invalidated Map VTD,HD Full Run,SD Full Run,HD 1 Scramble Run,HD 2 Scramble Run,SD 1 Scramble Run
+# Districts Scrambled,0,0,110,38,13,15,8
+# Districts Fixed,110,38,0,0,97,95,30
+"Max # of VRA (0.4, 0.48) While OEG Serial Beats State",0,0,0,4,14,13,4
+"Max # of VRA (0.4, 0.48) While |OEG Serial| < .04",13,4,10,4,14,13,5
+"Max # of VRA (0.4, 0.48) While SEG Serial Beats State",0,0,0,4,14,13,4
+"Max # of VRA (0.4, 0.48) While |SEG Serial| < .04",13,4,13,4,14,13,5
